@@ -1,0 +1,63 @@
+.top {
+    background-color:red;
+    border: 2px dashed blue;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+.Body1 {
+    background-color: blue;
+    border: 2px dashed red;
+    padding: 20px;
+    font-family: 'Bree Serif', serif;
+}
+
+.search {
+    text-align: right;
+    background-color: black;
+    border: 1px solid;
+    color: white;
+}
+
+.Body2 {
+    border: 2px dashed;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.bottom {
+    border: 2px dashed;
+    padding: 20px;
+    background-color: green;
+    font-family: 'Bree Serif', serif;
+}
+
+
+body{
+    text-align: center;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.Body2:hover {
+    background-color: pink;
+}
+
+img {
+    border: solid red 2px;
+}
+
+p:hover {
+    color: white;
+}
+
+button:hover {
+    color: green;
+    background-color: darkgreen;
+    width: 100px;
+    height: 40px;
+}
